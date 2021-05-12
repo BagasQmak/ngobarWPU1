@@ -1,0 +1,43 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  padding-top: 50px;
+}
+
+.navbar-brand {
+  font-size: 1.3em;
+}
+
+.jumbotron h1 {
+  font-weight: 600;
+}
+
+#main img {
+  width: 300px;
+}
+
+#about {
+  min-height: 400px;
+}
+
+#about .container p {
+  font-size: 0.8em;
+}
+
+#portfolio .card img {
+  opacity: 1;
+  transition: 0.3s;
+}
+
+#portfolio .card:hover img {
+  opacity: 0.8;
+}
+
+.card-body .card-title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.card-body .card-text {
+  font-size: 0.8em;
+}
